@@ -1,3 +1,4 @@
 const data ={
-  name : 'smith'
+  name : 'smith',
+  age : 20
 }
