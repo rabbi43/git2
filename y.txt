@@ -1,0 +1,13 @@
+hi
+hello
+hey
+hurray
+data
+java
+python
+javascript
+nodejs
+angular
+react
+php
+
