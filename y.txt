@@ -10,4 +10,4 @@ nodejs
 angular
 react
 php
-ruby
+
